@@ -14,10 +14,10 @@
 /**
  * API Keys - TODO: Store these in chrome.storage.local for better security
  */
-const IMGBB_API_KEY = 'fd7077fb381de903b0f53d11e0269a07';
+const IMGBB_API_KEY = '';
 //const SERPAPI_KEY = '081207b3c5172c4c497812a945b99718c9aebe553d19b09085ece1884dd5e9df';
 //use above key again in a month
-const SERPAPI_KEY = 'af54b86e7272726271820455c44ba5f9a51918e10b47f6f4c6726bae1901c2c9';
+const SERPAPI_KEY = '';
 
 /**
  * Configuration for Weighted Evidence Pipeline
