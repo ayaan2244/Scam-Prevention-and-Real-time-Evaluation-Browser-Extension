@@ -15,7 +15,7 @@
  * API Keys - TODO: Store these in chrome.storage.local for better security
  */
 const IMGBB_API_KEY = '';
-//const SERPAPI_KEY = '081207b3c5172c4c497812a945b99718c9aebe553d19b09085ece1884dd5e9df';
+//const SERPAPI_KEY = '';
 //use above key again in a month
 const SERPAPI_KEY = '';
 
